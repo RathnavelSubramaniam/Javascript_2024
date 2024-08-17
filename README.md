@@ -4,7 +4,7 @@
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/Web_Development_with_JavaScript.pdf)
   - [Week 1 - Computational Thinking](./syllabus/week_1.md)
-  - [Week 2 - Mental model of Computer Operations]()
+  - [Week 2 - Mental model of Computer Operations](./Week_2/week_2.md)
   - [Week 3 - Introduction to JavaScript]()
   - [Week 4 - Functions: Array Manipulation And Scope]() 
   - [Week 5 - Callback Functions]()

@@ -6,7 +6,7 @@
   - [Week 1 - Computational Thinking](./syllabus/week_1.md)
   - [Week 2 - Mental model of Computer Operations](./Week_2/week_2.md)
   - [Week 3 - Introduction to JavaScript](./week_3/week3.md)
-  - [Week 4 - Functions: Array Manipulation And Scope]() 
+  - [Week 4 - Functions: Array Manipulation And Scope](./week_4/week4.md) 
   - [Week 5 - Callback Functions]()
   - [Week 6 - Introduction To GitHub, Testing, And The DOM]()
   - [Week 7 - Styles And Bootstrap]()

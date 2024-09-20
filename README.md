@@ -20,6 +20,8 @@
 - Have to take up  Knowledge check after each concepts.
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
 
+## Marks
+ [Click Here](https://rathnavelsubramaniam.github.io/Javascript_2024_marks)
 
 
 <!-- ## Pattern of the Test

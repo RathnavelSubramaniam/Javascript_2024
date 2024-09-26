@@ -1,10 +1,9 @@
 | Week | Topic                                        | Activity & Assignment          |
 |------|----------------------------------------------|--------------------------------|
 | 6    | Introduction To GitHub, Testing, And The DOM | [Introduction](./Introduction%20And%20Instructions.pdf)                  |
-|      |                                              | [Discussions](https://classroom.google.com/c/NjE2MjExMTIzMTI1/a/NTI4OTMzODg0MjY3/details)                   |
-|      |                                              | [Knowledge Check 6.1](https://docs.google.com/forms/d/1nlHgsKwJkUH8U4w6hglBTTnpMMVjOF0ON30grfL0O0s/edit)            |
-|      |                                              | [Knowledge Check 6.2](https://docs.google.com/forms/d/1xMQcO43dF6PGLTdZ6HqUUNa87eiKN9S5D4hBSI2Glzo/edit)            |
-|      |                                              | [Knowledge Check 6.3](https://docs.google.com/forms/d/1xOfqznc_awKbn4Ky3VZsdI1aThLID2wAaAry_UrsdZk/edit)            |
-|      |                                              | [Coding Activity](https://classroom.github.com/a/N8c7Txg5) |
-|      |                                              | [Coding Assignment](https://classroom.github.com/a/4oT7hGod) |
+|      |                                              | [Knowledge Check 6.1](https://docs.google.com/forms/d/1iJGx2mw2GeG1EKEfLm_vNc7e6Ve1oyoDDj1_oAtQuoU/edit)            |
+|      |                                              | [Knowledge Check 6.2](https://docs.google.com/forms/d/17dtdxr5tO6cyl9PoD7yR-JVi2Lf6hds30ArRpv4J3sk/edit)            |
+|      |                                              | [Knowledge Check 6.3](https://docs.google.com/forms/d/1Jr78lSmgc41Qr5XnkN-dkKNkn1ilBKWUl4BL-vJ4y2U/edit)            |
+|      |                                              | [Coding Activity](https://classroom.github.com/a/WTlqYtgP) |
+|      |                                              | [Coding Assignment](https://classroom.github.com/a/79iBRydR) |
 |      |                                              | [Additional Resources](./Additional%20Resources.pdf)           |
